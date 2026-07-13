@@ -1,0 +1,1 @@
+Hi, My name is Yara, and I'm a highschool student interested in astrodynamics and aerospace engineering. I'm currently learning Python and orbital mechanics through NASA's GMAT software and designing and testing rocketry and satelites through Computer Aided Design and Kerbal Space Program. 
