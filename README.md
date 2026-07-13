@@ -8,7 +8,7 @@ Currently learning:
  
    Designing my ideas through computer aided design
  
- ★ Drafting and simulating realitic mission applications through RSS Kerbal Space Program.
+ ★ Drafting and simulating realitic mission applications through Kerbal Space Program (Modded to reflect real-world scale and difficulty).
   
 
 This is my portfolio for the future, and also a way for me to organize my stuff, while also tracking my progress.
