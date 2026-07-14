@@ -2,11 +2,11 @@ Hi, My name is Yara, and I'm a highschool student interested in astrodynamics an
 
 Currently learning: 
  
-  ★ Python (CS50P)
+  ★ Proficiency in Python
  
    Orbital mechanics through NASA's GMAT software
  
-   Designing my ideas through computer aided design
+   Designing my ideas through CAD
  
- ★ Drafting and simulating realitic mission applications through Kerbal Space Program (Modded to reflect real-world scale and difficulty).
+ ★ Drafting and excecuting realitic mission applications through simulation.
   
